@@ -1,0 +1,1 @@
+SSH (Secure Shell) is a network protocol that provides a secure way to access remote computers over an unsecured network. It is used for secure remote logins, remote command execution, and file transfers.

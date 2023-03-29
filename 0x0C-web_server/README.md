@@ -1,0 +1,1 @@
+This is a repository for a web server set up with a focus on DevOps practices. The purpose of this project is to demonstrate how DevOps practices can be used to automate the deployment and management of a web server.
